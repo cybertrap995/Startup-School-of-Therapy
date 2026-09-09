@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600" role="img" aria-labelledby="title description">
+  <title id="title">Brand board Школы Терапии</title>
+  <desc id="description">Название, слоган, учебный эскиз логотипа, цветовая палитра, типографика и примеры применения фирменного стиля.</desc>
+  <rect width="1600" height="1600" fill="#F0E5DE"/>
+
+  <rect x="56" y="56" width="1488" height="470" rx="28" fill="#2B1E24"/>
+  <g transform="translate(112 108)">
+    <rect x="0" y="0" width="340" height="340" rx="170" fill="none" stroke="#D8B6A6" stroke-width="3"/>
+    <path d="M105 92 L105 246 C208 246 235 210 235 169 C235 128 208 92 105 92 Z" fill="none" stroke="#F0E5DE" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M172 116 H280 M226 116 V235" fill="none" stroke="#D8B6A6" stroke-width="13" stroke-linecap="round"/>
+    <text x="170" y="302" text-anchor="middle" fill="#A8B5A2" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="5">DR TAMUNA</text>
+  </g>
+
+  <g transform="translate(520 120)">
+    <text x="0" y="36" fill="#D8B6A6" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="5">ОНЛАЙН ШКОЛА КЛИНИЧЕСКОЙ ЛОГИКИ</text>
+    <text x="0" y="130" fill="#F0E5DE" font-family="Prata, Georgia, serif" font-size="76">Школа Терапии</text>
+    <text x="2" y="178" fill="#A8B5A2" font-family="Manrope, Arial, sans-serif" font-size="28">от Dr.Tamuna</text>
+    <line x1="0" y1="230" x2="910" y2="230" stroke="#4B3440" stroke-width="2"/>
+    <text x="0" y="300" fill="#F0E5DE" font-family="Prata, Georgia, serif" font-size="46">Думать как врач.</text>
+    <text x="0" y="365" fill="#D8B6A6" font-family="Prata, Georgia, serif" font-size="46">Учиться без страха.</text>
+  </g>
+
+  <g transform="translate(56 566)">
+    <text x="0" y="30" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="4">ЦВЕТОВАЯ ПАЛИТРА</text>
+    <g transform="translate(0 66)">
+      <rect width="190" height="190" rx="22" fill="#2B1E24"/>
+      <text x="18" y="224" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">#2B1E24</text>
+      <text x="18" y="253" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="17">доверие</text>
+    </g>
+    <g transform="translate(212 66)">
+      <rect width="190" height="190" rx="22" fill="#4B3440"/>
+      <text x="18" y="224" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">#4B3440</text>
+      <text x="18" y="253" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="17">устойчивость</text>
+    </g>
+    <g transform="translate(424 66)">
+      <rect width="190" height="190" rx="22" fill="#D8B6A6"/>
+      <text x="18" y="224" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">#D8B6A6</text>
+      <text x="18" y="253" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="17">поддержка</text>
+    </g>
+    <g transform="translate(636 66)">
+      <rect width="190" height="190" rx="22" fill="#A8B5A2"/>
+      <text x="18" y="224" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">#A8B5A2</text>
+      <text x="18" y="253" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="17">рост</text>
+    </g>
+  </g>
+
+  <g transform="translate(930 566)">
+    <text x="0" y="30" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="4">ТИПОГРАФИКА</text>
+    <text x="0" y="120" fill="#2B1E24" font-family="Prata, Georgia, serif" font-size="56">Prata</text>
+    <text x="225" y="118" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="23">Заголовки и акценты</text>
+    <text x="0" y="204" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="700">Manrope</text>
+    <text x="225" y="201" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="23">Основной текст и интерфейс</text>
+    <text x="0" y="280" fill="#2B1E24" font-family="DM Mono, Consolas, monospace" font-size="35">DM Mono</text>
+    <text x="225" y="277" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="23">Метки и нумерация</text>
+  </g>
+
+  <line x1="56" y1="940" x2="1544" y2="940" stroke="#D8B6A6" stroke-width="2"/>
+
+  <g transform="translate(56 990)">
+    <text x="0" y="28" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="4">КЛЮЧЕВАЯ ИДЕЯ</text>
+    <text x="0" y="110" fill="#2B1E24" font-family="Prata, Georgia, serif" font-size="52">Клиническая логика</text>
+    <text x="0" y="164" fill="#2B1E24" font-family="Prata, Georgia, serif" font-size="52">вместо зубрёжки</text>
+    <text x="0" y="236" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="26">Понятная система подготовки.</text>
+    <text x="0" y="278" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="26">Практика клинического мышления.</text>
+    <text x="0" y="320" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="26">Поддержка без стыда за незнание.</text>
+    <text x="0" y="392" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="19" letter-spacing="4">УТП</text>
+    <text x="0" y="438" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">Системная подготовка к экзаменам</text>
+    <text x="0" y="474" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">через клиническую логику и практику</text>
+    <text x="0" y="510" fill="#2B1E24" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="700">в поддерживающей среде без зубрёжки.</text>
+  </g>
+
+  <g transform="translate(760 990)">
+    <text x="0" y="28" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="22" letter-spacing="4">ПРИМЕРЫ ПРИМЕНЕНИЯ</text>
+    <rect x="0" y="72" width="360" height="460" rx="28" fill="#2B1E24"/>
+    <text x="30" y="122" fill="#D8B6A6" font-family="DM Mono, Consolas, monospace" font-size="16" letter-spacing="3">01 — ТЕМА</text>
+    <text x="30" y="192" fill="#F0E5DE" font-family="Prata, Georgia, serif" font-size="35">От симптома</text>
+    <text x="30" y="238" fill="#F0E5DE" font-family="Prata, Georgia, serif" font-size="35">к решению</text>
+    <text x="30" y="298" fill="#A8B5A2" font-family="Manrope, Arial, sans-serif" font-size="20">Разбираем ход мысли</text>
+    <text x="30" y="330" fill="#A8B5A2" font-family="Manrope, Arial, sans-serif" font-size="20">шаг за шагом</text>
+    <line x1="30" y1="370" x2="330" y2="370" stroke="#4B3440" stroke-width="2"/>
+    <text x="30" y="422" fill="#D8B6A6" font-family="Manrope, Arial, sans-serif" font-size="19">ЗНАНИЯ · ПОДДЕРЖКА · РОСТ</text>
+
+    <rect x="400" y="72" width="360" height="460" rx="28" fill="#FFFFFF" stroke="#D8B6A6" stroke-width="2"/>
+    <circle cx="580" cy="172" r="72" fill="none" stroke="#2B1E24" stroke-width="3"/>
+    <path d="M540 138 L540 206 C588 206 605 190 605 172 C605 154 588 138 540 138 Z" fill="none" stroke="#2B1E24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M570 150 H622 M596 150 V200" fill="none" stroke="#D8B6A6" stroke-width="8" stroke-linecap="round"/>
+    <text x="580" y="290" text-anchor="middle" fill="#2B1E24" font-family="Prata, Georgia, serif" font-size="34">Школа Терапии</text>
+    <text x="580" y="333" text-anchor="middle" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="19">от Dr.Tamuna</text>
+    <text x="580" y="394" text-anchor="middle" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="20">Думать как врач.</text>
+    <text x="580" y="426" text-anchor="middle" fill="#4B3440" font-family="Manrope, Arial, sans-serif" font-size="20">Учиться без страха.</text>
+  </g>
+
+  <text x="1544" y="1560" text-anchor="end" fill="#4B3440" font-family="DM Mono, Consolas, monospace" font-size="17" letter-spacing="2">УЧЕБНЫЙ BRAND BOARD · 2026</text>
+</svg>
