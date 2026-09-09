@@ -6,4 +6,4 @@
 
 
 - [название, слоган и УТП](../Week-1/README.md);
-- [брендбук](../Week-1/BrandBook.jpg).
+- [брендбук](../Week-1/BrandBook.png).
